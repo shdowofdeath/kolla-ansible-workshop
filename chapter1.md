@@ -7,6 +7,8 @@ Let start by installing few packages that we'll need later (use sudo or root acc
 sudo su
 ```
 
+## Installation should be only on the first deployer node ( that will install Kolla ) 
+
 Ubuntu:
 ```
 apt-get update
